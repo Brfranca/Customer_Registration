@@ -425,7 +425,6 @@
             this.txtState.Name = "txtState";
             this.txtState.Size = new System.Drawing.Size(46, 22);
             this.txtState.TabIndex = 15;
-            this.txtState.Text = "SC";
             // 
             // txtDistrict
             // 
